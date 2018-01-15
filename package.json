@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Doniika/todolist/issues"
   },
-  "homepage": "https://github.com/Doniika/todolist#readme"
+  "homepage": "https://github.com/Doniika/todolist#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
